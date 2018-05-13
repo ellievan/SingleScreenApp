@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Puppies4Developers2</string>
+    <string name="header">Puppies4Developers</string>
+    <string name="about_header">About Us</string>
+    <string name="description">Sometimes after long hours of writing awesome code you feel like you need to go for a walk? No problem! Puppies4Developers connects you to dogs that need a walk in your local area.</string>
+    <string name="slogan">Cause everyone loves puppies!</string>
+    <string name="contact">Contact</string>
+    <string name="phone">012 28123 456</string>
+    <string name="mail">info@puppies4developers.woof</string>
+</resources>
